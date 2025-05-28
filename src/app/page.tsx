@@ -23,6 +23,7 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
           <li>This is my test project</li>
           <li className='font-bold text-red-50'>Try again</li>
+          <li className='font-bold text-red-50'>Try again and again</li>
         </ol>
 
         <div className='flex flex-col items-center gap-4 sm:flex-row'>
